@@ -1,8 +1,7 @@
 # Volleyball
 A multiplayer game written in JavaScript. <br />
 One of my first projects written for student classes. <br />
-The first high bar, i.e. the implementation of artificial <br />
-gravity. <br /> <br />
+The first high bar, i.e. the implementation of artificial gravity. <br /> <br />
 
 ## Play it [here](https://mikolajczu.github.io/VolleyballJS/)
 
